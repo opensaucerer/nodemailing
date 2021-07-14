@@ -41,4 +41,4 @@ Body: //email body,
 
 Tell your recipient to check thier mail, your email just go delivered...!
 
-### Credits to the open source (https://smtpjs.com/)[smtpjs]
+### Credits to the open source [smtpjs](https://smtpjs.com/)
