@@ -1,12 +1,23 @@
 {
   "name": "nodemailing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with little to no configuration at all.",
   "main": "smtp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["nodemailing", "node mailing", "nodemailer", "node smtp", "smtp", "email in node", "nodejs email", "nodejs smtp"],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samperfect/Nodemailing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samperfect/Nodemailing/issues"
+  },
+  "homepage": "https://github.com/Samperfect/Nodemailing#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
 }
