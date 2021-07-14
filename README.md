@@ -1,6 +1,8 @@
 # NodeMailing - Easily Send Emails in NodeJS
 
-Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with little to no configuration at all.
+## Yes! No Configuration Needed
+
+Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with no configuration at all.
 
 In fact, you only configuration you need is to require the Nodemailing module and call the **send** funtion! Pass your SMTP Host, username, password, recipient, subject, body, and Voila! Your messages gets sent immediately.
 
