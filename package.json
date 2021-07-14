@@ -1,6 +1,6 @@
 {
   "name": "nodemailing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with little to no configuration at all.",
   "main": "smtp.js",
   "scripts": {
@@ -19,5 +19,5 @@
   "homepage": "https://github.com/Samperfect/Nodemailing#readme",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  },
+  }
 }

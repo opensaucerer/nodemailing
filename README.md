@@ -39,6 +39,6 @@ Body: //email body,
 );
 ```
 
-Tell your recipient to check thier mail, your email just go delivered...!
+Tell your recipient to check thier mail, your email just got delivered...!
 
 ### Credits to the open source [smtpjs](https://smtpjs.com/)
