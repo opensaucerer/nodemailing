@@ -6,25 +6,25 @@ In fact, you only configuration you need is to require the Nodemailing module an
 
 To get started run
 
-'''
+```
 npm install nodemailing
-'''
+```
 
 or go the shorter route
 
-'''
+```
 npm i nodemailing
-'''
+```
 
 Now, in your NodeJS project, require Nodemailing.
 
-'''
+```
 const { Nodemailing } = require('nodemailing')
-'''
+```
 
 Now, easily send your email
 
-'''
+```
 Nodemailing.send({
 Host: //your smtp host,
 Username: //your email,
@@ -37,8 +37,8 @@ Body: //email body,
 //anything goes here....
 // console.log("Email has been sent")
 );
-'''
+```
 
 Tell your recipient to check thier mail, your email just go delivered...!
 
-### Credits to the open source [https://smtpjs.com/](smtpjs)
+### Credits to the open source (https://smtpjs.com/)[smtpjs]
