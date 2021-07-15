@@ -1,7 +1,7 @@
 {
   "name": "nodemailing",
-  "version": "1.0.2",
-  "description": "Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with no configuration at all.",
+  "version": "1.0.3",
+  "description": "Nodemailing is a lightweight emailing system that takes advantage of SMTP to allow users to easily send emails with no configuration required.",
   "main": "smtp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

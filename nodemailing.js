@@ -1,4 +1,4 @@
-﻿/* SmtpJS.com - v3.0.0 */
+﻿/* Nodemailing - v1.0.3 */
 var XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 
 var Nodemailing = {
