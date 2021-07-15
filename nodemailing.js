@@ -1,4 +1,4 @@
-﻿/* Nodemailing - v1.0.3 */
+﻿/* Nodemailing - v1.0.4 */
 var XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 
 var Nodemailing = {
