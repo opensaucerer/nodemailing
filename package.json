@@ -1,12 +1,12 @@
 {
   "name": "nodemailing",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Send emails in NodeJs with no configuration required",
   "main": "nodemailing.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["nodemailing", "node mailing", "nodemailer", "node smtp", "smtp", "email in node", "nodejs email", "nodejs smtp"],
+  "keywords": ["nodemailing", "node mailing", "nodemailer", "node mailer", "node smtp", "smtp", "email in node", "nodejs email", "nodejs smtp"],
   "author": "",
   "license": "ISC",
   "repository": {
