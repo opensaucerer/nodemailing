@@ -149,5 +149,3 @@ Nodemailing.render(filePath, data).then(emailToSend =>{
 ```
 
 Tell your recipient to check thier mail, your email just got delivered...!
-
-### Credits to the open source [smtpjs](https://smtpjs.com/)
